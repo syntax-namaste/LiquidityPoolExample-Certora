@@ -7,4 +7,7 @@ node_modules/
 certora_*
 resource_errors.json
 .zip-output-url.txt
+specs/.certora_internal
+.certora_recent_jobs.json
+.devcontainer/
 
